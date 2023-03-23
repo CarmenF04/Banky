@@ -1,0 +1,55 @@
+{
+    "Bankrekening": [
+        {
+            "from/to": "Carmen",
+            "amount": 10
+        },
+        {
+            "from/to": "BobDeBouwer",
+            "amount": 100
+        },
+        {
+            "from/to": "KabouterPlop",
+            "amount": -100
+        },
+        {
+            "from/to": "PieterPost",
+            "amount": -100
+        },
+        {
+            "from/to": "Elmo",
+            "amount": -100
+        },
+        {
+            "from/to": "Carmen",
+            "amount": 10
+        },
+        {
+            "from/to": "BobDeBouwer",
+            "amount": 100
+        },
+        {
+            "from/to": "KabouterPlop",
+            "amount": -100
+        },
+        {
+            "from/to": "PieterPost",
+            "amount": -100
+        },
+        {
+            "from/to": "Elmo",
+            "amount": -100
+        }
+    ],
+
+    "ZZP-Rekening": [
+        {
+            "from/to": "Bedrijf Kaas",
+            "amount": 1099
+        },
+        {
+            "from/to": "Bedrijf Drop",
+            "amount": 100000
+        }
+    ]
+}

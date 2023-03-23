@@ -3,8 +3,8 @@
 
 body{
     padding:map-get(vars.$vhCalc, "paddingOfBody");
-    font-family: 'Open Sans', sans-serif;
+    font-family: vars.$font-family;
     padding-bottom: 0;
-    background: linear-gradient(map-get(colors.$baseColors,"background"), 30%, (map-get(colors.$baseColors, "backgroundDark")));
+    background: vars.$gradient;
     min-height: 100vh;
 }
